@@ -1,78 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a2696f6-c55d-4447-acf9-ca7996756766" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="1a2696f6-c55d-4447-acf9-ca7996756766" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/templates/account/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/font-awesome/css/font-awesome.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Depd/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dist/LOGO font/SamarkanNormal-RXGE.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dist/LOGO font/SamarkanNormal-RXGE.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dist/LOGO font/SamarkanOblique-BXew.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dist/LOGO font/SamarkanOblique-BXew.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dist/LOGO font/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dist/LOGO font/misc/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dist/img/Add Application.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dist/img/black-back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dist/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dist/img/kyan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dist/img/login.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/dist/img/paypal_monochromatic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Add Application.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Login.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Reading_1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Searching.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Team_1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/black-back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/corona 2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/corona1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/img9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/kyan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/paypal_monochromatic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/piggy_bank_monochromatic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/undraw_Scrum_board_re_wk7v.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/scripts/apply.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/scripts/donate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/scripts/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/scripts/signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/stylesheets/Signup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/stylesheets/apply.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/stylesheets/donate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/stylesheets/font-face.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/stylesheets/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/stylesheets/join us.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/account/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11">
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="980" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="user" type="b2602c69:ProjectViewProjectNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="user" type="b2602c69:ProjectViewProjectNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="user" type="b2602c69:ProjectViewProjectNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1iGdXzGfzAOA7C5CBeju1Y3V8PU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/account/templates/account" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\Desktop\hactoberfest django mini 2\account\templates\account" />
+      <recent name="C:\Users\acer\Desktop\hactoberfest django mini 2\static" />
+      <recent name="C:\Users\acer\Desktop\hactoberfest django mini 2\templates" />
+    </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1a2696f6-c55d-4447-acf9-ca7996756766" name="Default Changelist" comment="" />
@@ -83,37 +131,15 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="68" y="20" width="1400" height="784" extended-state="0" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32924962" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32924962" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.32924962" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/account/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
